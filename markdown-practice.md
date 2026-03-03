@@ -91,19 +91,4 @@ A student passionate about *Artificial Intelligence* and committed to learning i
 You can explore my projects on [GitHub](https://github.com/mitchelsamba8).
 
 ---
-
-## 🧠 What This File Demonstrates
-
-This file includes:
-- Headings  
-- Bold & italic text  
-- Inline code  
-- Links  
-- Lists  
-- Tables  
-- Task lists  
-- Code blocks  
-- Blockquotes  
-- Horizontal rules  
-
 Markdown mastered.
